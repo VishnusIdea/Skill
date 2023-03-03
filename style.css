@@ -1,0 +1,16 @@
+* {box-sizing: border-box}
+    .container {
+      width: 100%;
+      background-color: wheat;
+    }
+    .skills {
+      text-align: right;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      color: black;
+    }
+    .html {width: 90%; background-color:orange}
+    .Css {width: 70%; background-color: brown}
+    .js {width: 65%; background-color: orangered}
+    .li {width: 50%; background-color: slategray}
+    .c {width: 70%; background-color:green}
